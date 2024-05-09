@@ -9,4 +9,4 @@ Generating different creative text formats, like poems, code, scripts, musical p
 Trying its best to follow your instructions and complete your requests thoughtfully.
 Furthermore, the chatbot can be fine-tuned on specific datasets to enhance its capabilities in particular domains. This allows for customization and specialization based on your unique needs.
 
-With its advanced features and user-friendly interface, this chatbot is poised to become a valuable tool for anyone seeking informative and engaging conversation.  -->"# LimeChatBot" 
+With its advanced features and user-friendly interface, this chatbot is poised to become a valuable tool for anyone seeking informative and engaging conversation.  -->"#" 
